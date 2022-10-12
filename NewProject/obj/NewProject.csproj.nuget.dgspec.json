@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project1\\NewProject\\NewProject\\NewProject.csproj": {}
+    "D:\\Project1\\NewProject\\RFPDayFirst\\NewProject\\NewProject.csproj": {}
   },
   "projects": {
-    "D:\\Project1\\NewProject\\NewProject\\NewProject.csproj": {
+    "D:\\Project1\\NewProject\\RFPDayFirst\\NewProject\\NewProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project1\\NewProject\\NewProject\\NewProject.csproj",
+        "projectUniqueName": "D:\\Project1\\NewProject\\RFPDayFirst\\NewProject\\NewProject.csproj",
         "projectName": "NewProject",
-        "projectPath": "D:\\Project1\\NewProject\\NewProject\\NewProject.csproj",
+        "projectPath": "D:\\Project1\\NewProject\\RFPDayFirst\\NewProject\\NewProject.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Project1\\NewProject\\NewProject\\obj\\",
+        "outputPath": "D:\\Project1\\NewProject\\RFPDayFirst\\NewProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
